@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @verma-rishabh
-- 👀 I’m interested in embedded ai
-- 🌱 I’m currently learning deep reinforcement learning
+<!-- - 👋 Hi, I’m @verma-rishabh -->
+<!-- - 👀 I’m interested in embedded ai -->
+<!-- - 🌱 I’m currently learning deep reinforcement learning -->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me rishabh754@gmail.com
 
